@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@import '@fontsource-variable/inter/wght.css';
+
+body {
+  font-family: 'Inter Variable', sans-serif;
+  margin: 0;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter Variable', sans-serif;
+  font-weight: 600;
+}
+
+/* html {
+
+} */
